@@ -1,0 +1,20 @@
+Ctrl + Alt + L — Reformat code
+Ctrl + Alt + O — Optimize imports
+Ctrl + Shift + R — Rename
+Ctrl + Space — Basic code completion
+Ctrl + Shift + Space — Smart code completion
+Ctrl + W — Select successively increasing code blocks
+Ctrl + Shift + W — Decrease current selection to previous state
+Ctrl + Shift + Enter — Complete current statement
+Ctrl + Alt + T — Surround with…
+Ctrl + / — Comment/uncomment with line comment
+Ctrl + Shift + / — Comment/uncomment with block comment
+Alt + Insert — Generate code (e.g. getters, setters, constructors)
+Ctrl + Alt + S — Open the Settings dialog
+Ctrl + Alt + Shift + S — Open the Project Structure dialog
+Ctrl + Shift + F — Find in path
+Ctrl + Shift + R — Replace in path
+Ctrl + G — Go to line
+Ctrl + Shift + Backspace — Go back to previous location
+Alt + Home — Go to navigation bar
+Ctrl + Shift + A — Find action
